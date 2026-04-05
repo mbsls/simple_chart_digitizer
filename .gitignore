@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+figures/
+*_processed.png
+timeseries.csv
+timeseries_plot.png
+.venv/
